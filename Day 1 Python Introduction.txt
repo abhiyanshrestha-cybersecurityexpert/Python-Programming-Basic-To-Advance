@@ -1,0 +1,16 @@
+# Python Introduction
+
+# Programming language - The language which is used to communicate to the computers.
+
+# Python - It is a programming language
+
+# Machine/Computer language - Binary language
+
+# Interpreted(Python) - There is a interpreter which converts programming language onto binary 
+line by line
+
+# Compiled(C, Java) - There is a compilation process , which converts the whole program onto  
+a binary language
+
+# Why python? - Popular in web-development, Easy to learn, High level sectors use case
+
